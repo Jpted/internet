@@ -1,7 +1,21 @@
-body{
-    background-image: url(NINTCHDBPICT000509727125.jpg);
-
+.cabecalho{
+    background-color: rosybrown ;
+    font-size: 28px;
+    width: 600px;
+    padding: 10px;
+    display: flex;
+    color: blue;
 }
-h1{
-     font-family: 'arial,verdana';
+.corpo{
+    text-align: right;
+    width: 24px;
+    padding: 100px;
+    background-color: rgb(136, 71, 112);
+    text-transform: uppercase;
+}
+.rodape{
+    width: 600px;
+    padding: 10px;
+    background-color: rgb(255, 0, 162);
+    font-family: arial, verdana;
 }
